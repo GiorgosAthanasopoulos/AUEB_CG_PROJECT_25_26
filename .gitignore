@@ -1,0 +1,43 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.VC.opendb
+.vscode/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.sln
+*.user
+*.userprefs
+*.log
+*.tlog
+*.obj
+*.pdb
+*.cache
+*.db
+*.ipch
+*.opensdf
+*.idb
+
+# Mac files
+.DS_Store
+
+# Backup files
+*.bak
+*.tmp
+
+# Build folders
+Build/
+
+# If using Rider or VS Code
+.idea/
+.vscode/
+
+# Ignore temporary Unreal autosaves
+*_Backup/*
+*_BuiltData.uasset
